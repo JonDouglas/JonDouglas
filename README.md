@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Jon Douglas 👋
 
-<!--
-**JonDouglas/JonDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Program Manager at Microsoft working on [NuGet](https://www.nuget.org/) by day & content creator by night.
 
-Here are some ideas to get you started:
+I’ve made it my goal to demystify the path to building a sustainable, profitable, and passionate career in the software industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you will learn how to hack your habits, learning, focus, leadership, and body.
+
+Each week I share big ideas that will take you from good to great. It all starts with a mindset shift of knowing you are capable of greatness.
+
+Tech’s Tom Cruise 😎
+
+Code, Lift, Ball 👨‍💻🏋️‍♂️🏀
+
+- 💻 [Website](https://jondouglas.dev/)
+- ⏰ [TikTok](https://www.tiktok.com/@jondouglas)
+- 📸 [Instagram](https://www.instagram.com/jondouglasdev/)
+- 🐦 [Twitter](https://twitter.com/_jondouglas)
+- 📹 [YouTube](https://www.youtube.com/channel/UCT4LcP3R-qYf-AaoBSmJpDg)
+- 🎮 [Twitch](https://www.twitch.tv/jondouglasdev)
+- 📓 [Podia](https://jondouglas.podia.com/)
