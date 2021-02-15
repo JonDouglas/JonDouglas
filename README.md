@@ -8,8 +8,6 @@ Here you will learn how to hack your habits, learning, focus, leadership, and bo
 
 Each week I share big ideas that will take you from good to great. It all starts with a mindset shift of knowing you are capable of greatness.
 
-Tech’s Tom Cruise 😎
-
 Code, Lift, Ball 👨‍💻🏋️‍♂️🏀
 
 - 💻 [Website](https://jondouglas.dev/)
