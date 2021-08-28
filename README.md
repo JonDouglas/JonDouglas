@@ -4,6 +4,8 @@ I'm a Senior Program Manager at Microsoft working on [NuGet](https://www.nuget.o
 
 I’ve made it my goal to demystify the path to building a sustainable, profitable, and passionate career in the software industry.
 
+I even went as far as writing a 200+ page book on the topic that you can [download for free](https://jondouglas.dev/free-book).
+
 Here you will learn how to hack your habits, learning, focus, leadership, and body.
 
 Each week I share big ideas that will take you from good to great. It all starts with a mindset shift of knowing you are capable of greatness.
