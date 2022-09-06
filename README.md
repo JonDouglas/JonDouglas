@@ -1,6 +1,6 @@
 ### Hi, I'm Jon Douglas 👋
 
-I'm a Senior Program Manager at Microsoft working on [NuGet](https://www.nuget.org/) by day & content creator by night.
+I'm a Principal Program Manager at Microsoft working on [NuGet](https://www.nuget.org/) by day & content creator by night.
 
 I’ve made it my goal to demystify the path to building a sustainable, profitable, and passionate career in the software industry.
 
