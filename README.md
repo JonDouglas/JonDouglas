@@ -1,21 +1,8 @@
-### Hi, I'm Jon Douglas 👋
+### Hey, I’m Jon Douglas 👋
 
-I'm a Principal Program Manager at Microsoft working on [NuGet](https://www.nuget.org/) by day & content creator by night.
+By daylight, I’m a Principal Product Manager at Microsoft, guiding technology toward usefulness. By moonlight (and sometimes in the blurry middle hours), I lend my time to NIH and related efforts chasing a cure for Long COVID, a cause both urgent and deeply human.
 
-I’ve made it my goal to demystify the path to building a sustainable, profitable, and passionate career in the software industry.
+I’ve written three books, each a small attempt to capture and share what I’ve learned along the way. And though words are finite, my inbox is always open because connection matters more than polish.
 
-I even went as far as writing a 200+ page book on the topic that you can [download for free](https://jondouglas.dev/free-book).
-
-Here you will learn how to hack your habits, learning, focus, leadership, and body.
-
-Each week I share big ideas that will take you from good to great. It all starts with a mindset shift of knowing you are capable of greatness.
-
-Code, Lift, Ball 👨‍💻🏋️‍♂️🏀
-
-- 💻 [Website](https://jondouglas.dev/)
-- ⏰ [TikTok](https://www.tiktok.com/@jondouglas)
-- 📸 [Instagram](https://www.instagram.com/jondouglasdev/)
-- 🐦 [Twitter](https://twitter.com/_jondouglas)
-- 📹 [YouTube](https://www.youtube.com/channel/UCT4LcP3R-qYf-AaoBSmJpDg)
-- 🎮 [Twitch](https://www.twitch.tv/jondouglasdev)
-- 📓 [Podia](https://jondouglas.podia.com/)
+- https://x.com/atranscendedman
+- https://www.goodreads.com/author/list/3232378.Jon_Douglas
